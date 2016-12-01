@@ -71,13 +71,14 @@ input,button{ cursor: pointer; -webkit-appearance: none; }/*去除苹果默认�
 .swiper-slide4 dl em{font-weight: bold;display: block;float: left;padding-right: 0.2rem;}
 .swiper-slide5 h3:nth-child(1){font-size: 0.7rem;left: 50%;margin-left: -1.4rem;top: 1rem;}
 .swiper-zoom-container img{width: 80%;height: 90%;}
-.big1{position: absolute;bottom: 1.8rem;left: 2.3rem;font-size: 0.3rem;}
-.big2{position: absolute;bottom: 2.4rem;left: 2.3rem;font-size: 0.3rem;}
+.big1{position: absolute;bottom: 1.3rem;left: 2.3rem;font-size: 0.3rem;}
+.big2{position: absolute;bottom: 1.4rem;left: 2.3rem;font-size: 0.3rem;}
 .big3{position: absolute;bottom: 2.6rem;left: 2.3rem;font-size: 0.3rem;}
 .big4{position: absolute;bottom: 1rem;left: 2.3rem;font-size: 0.3rem;}
 .big5{position: absolute;bottom: 1.8rem;left: 2.3rem;font-size: 0.3rem;}
 .swiper-slide6 h3:nth-child(1){font-size: 0.7rem;left: 50%;margin-left: -1.4rem;top: 0.5rem;}
 .swiper-slide6 img{width: 80%;height: 63%;}
+
 
 /*风车*/
 .wmd1 {
