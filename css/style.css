@@ -82,7 +82,11 @@ input,button{ cursor: pointer; -webkit-appearance: none; }/*去除苹果默认�
 
 /*风车*/
 .wmd1 {
+	transform: scale(.6);
+	-moz-transform: scale(.6);
+	-ms-transform: scale(.6);
 	-webkit-transform: scale(.6);
+	-o-transform: scale(.6);
 	position:absolute;
 	bottom:248px;
 	right:236px;
